@@ -2,8 +2,8 @@
 basis for an idle game, taken from the game, "Antimater Diensions" but not as polished and in c#.<br>
 Javascript webgame link,<br>
 https://ivark.github.io/<br>
-github page<br>
-https://github.com/IvarK<br>
+github page [@ivark](https://github.com/IvarK)<br>
+
 <br>
 # Concept
 1 idle module makes currency, each module after produces the one before it.<br>
