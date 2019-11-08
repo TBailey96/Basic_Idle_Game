@@ -9,5 +9,4 @@ https://github.com/IvarK<br>
 1 idle module makes currency, each module after produces the one before it.<br>
 users spend currency on upgrades which in turn earn more currency.<br>
 users can then pristege a # of times before going to another level of pristege.<br>
-
-
+[license](https://github.com/helderma/Basic_Idle_Game/blob/master/LICENSE.txt)
