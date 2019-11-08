@@ -10,7 +10,7 @@ Basis for an idle game, inspired from the game, "Antimater Diensions" but not as
 # [**EULA**](https://github.com/helderma/Basic_Idle_Game/blob/master/LICENSE.txt)
 Insperations | Refernces
 ------------ | ------------
- **Thanks@ivark**| [**Javascript Webgame**](https://ivark.github.io/)/[**Google Play**](https://play.google.com/store/apps/details?id=kajfosz.antimatterdimensions)/[**GitHub Page**](https://github.com/IvarK)<br>
+ **Thanks**@**IvarK**| [**Javascript Webgame**](https://ivark.github.io/)/[**Google Play**](https://play.google.com/store/apps/details?id=kajfosz.antimatterdimensions)/[**GitHub Page**](https://github.com/IvarK)<br>
    
    
    
