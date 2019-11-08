@@ -1,0 +1,42 @@
+MIT License
+
+Copyright (c) 2019 helderma
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+  Any Use:
+The Creator (helderma) must be alerted to use of the software or files, within a week, for use of any intent.
+Failure to alert the Creator does not immediately result in legal punishment, but will result in breaking the Creators heart.
+
+The Creator or it's associated files for this Repository should be recognized for their contribution to influence, 
+produce, or otherwise used in another Entity's creation.
+
+  Personal Use:
+Individual Entites, including more than one member per entity, have the freedom to use this intelectual property without restricion. 
+Individual Entity(s) are granted the previous freedom until they may profit from it (see Commercial Use).
+
+
+  Commercial Use:
+If another entity seeks monitary gain from use of this software or it's files, the Creator wishes to recieve a form of compensation.
+Compensation can be negotatied through direct contact or virtual meeting environments, 
+  But may also require a legal representative, for each party, to help mediate the negotation.
+The Creator will most likely not pursue legal action, but will probably brood about the loss of potential income dispite hard work.
+
+  Never Forget Clause:
+Have fun recreating this work, and just be a Kantian neighbor to those around you.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
