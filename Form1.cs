@@ -20,6 +20,17 @@ namespace BasicIdler
         Thread backgroundCruncher;
         System.Windows.Forms.Timer guiRefesher;
         bool keepRunningThread = true;
+        // byte [] array; 
+        //placeholder collection, Can be Community added.
+            //peasents*various professions in wage order*,lords*dukes, Warlords, realestate owners*, kings*famous ones*, 
+        //each contributer to a placeholder collection can earn some of the revenue I earn, if any, = to the portion of other contributers, and my own collections 
+        /* how to store the numbers,
+         * 3 digit place holder with an array of placement markers, 
+         * * the addition of numbers is based on the lowest ranking marker
+         * ** Highest ranking marker - Lowest ranking is the number of placeholders needed to store in memory
+         * ***when Placeholders shrink the lesser ones are trunkated off.
+         * **Higher ranked placeholders are the only ones that count for costs         
+        */
         public Form1()
         {
             InitializeComponent();
