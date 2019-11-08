@@ -16,6 +16,7 @@ namespace BasicIdler
         Generator[] idlers;
         Gen_Interface[] gens;
         uint ticker = 100;
+        ulong Currency = 0;
         Thread backgroundCruncher;
         System.Windows.Forms.Timer guiRefesher;
         bool keepRunningThread = true;
@@ -90,7 +91,9 @@ namespace BasicIdler
                         else
                         {
                             //its the producer to add  to currency
+                            Currency += idlers[x].amount;
                         }
+                        lblCurrency.Text = string.Format("{0}{1}<->{2}",Currency,"Placement","Gold");
                         //gens[x].updateGUI();
                     }
                 }
@@ -106,7 +109,9 @@ namespace BasicIdler
                 else
                 {
                     //its the producer to add  to currency
+                    Currency += idlers[x].amount;
                 }
+                lblCurrency.Text = string.Format("{0}{1}<->{2}", Currency.ToString("N0"), "Placement", "Gold");
                 //crunchNumbers(ref keepRunningThread);
                 gens[x].updateGUI();
             }

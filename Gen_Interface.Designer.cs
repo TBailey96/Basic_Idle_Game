@@ -33,19 +33,26 @@
             this.button2 = new System.Windows.Forms.Button();
             this.btnUpgrade = new System.Windows.Forms.Button();
             this.lblmultiplier = new System.Windows.Forms.Label();
+            this.lblCost = new System.Windows.Forms.Label();
+            this.lblSpeed = new System.Windows.Forms.Label();
             this.grpDescription.SuspendLayout();
             this.SuspendLayout();
             // 
             // grpDescription
             // 
+            this.grpDescription.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.grpDescription.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.grpDescription.Controls.Add(this.lblSpeed);
+            this.grpDescription.Controls.Add(this.lblCost);
             this.grpDescription.Controls.Add(this.lblAmount);
             this.grpDescription.Controls.Add(this.button2);
             this.grpDescription.Controls.Add(this.btnUpgrade);
             this.grpDescription.Controls.Add(this.lblmultiplier);
             this.grpDescription.Location = new System.Drawing.Point(4, 4);
             this.grpDescription.Name = "grpDescription";
-            this.grpDescription.Size = new System.Drawing.Size(431, 93);
+            this.grpDescription.Size = new System.Drawing.Size(380, 111);
             this.grpDescription.TabIndex = 0;
             this.grpDescription.TabStop = false;
             this.grpDescription.Text = "nothing";
@@ -70,9 +77,9 @@
             // 
             // btnUpgrade
             // 
-            this.btnUpgrade.Location = new System.Drawing.Point(6, 56);
+            this.btnUpgrade.Location = new System.Drawing.Point(6, 82);
             this.btnUpgrade.Name = "btnUpgrade";
-            this.btnUpgrade.Size = new System.Drawing.Size(419, 23);
+            this.btnUpgrade.Size = new System.Drawing.Size(290, 23);
             this.btnUpgrade.TabIndex = 1;
             this.btnUpgrade.Text = "Upgrade";
             this.btnUpgrade.UseVisualStyleBackColor = true;
@@ -87,6 +94,24 @@
             this.lblmultiplier.TabIndex = 0;
             this.lblmultiplier.Text = "Multiplier:";
             // 
+            // lblCost
+            // 
+            this.lblCost.AutoSize = true;
+            this.lblCost.Location = new System.Drawing.Point(7, 39);
+            this.lblCost.Name = "lblCost";
+            this.lblCost.Size = new System.Drawing.Size(40, 17);
+            this.lblCost.TabIndex = 4;
+            this.lblCost.Text = "Cost:";
+            // 
+            // lblSpeed
+            // 
+            this.lblSpeed.AutoSize = true;
+            this.lblSpeed.Location = new System.Drawing.Point(153, 39);
+            this.lblSpeed.Name = "lblSpeed";
+            this.lblSpeed.Size = new System.Drawing.Size(53, 17);
+            this.lblSpeed.TabIndex = 5;
+            this.lblSpeed.Text = "Speed:";
+            // 
             // Gen_Interface
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -94,7 +119,7 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Controls.Add(this.grpDescription);
             this.Name = "Gen_Interface";
-            this.Size = new System.Drawing.Size(438, 112);
+            this.Size = new System.Drawing.Size(387, 118);
             this.grpDescription.ResumeLayout(false);
             this.grpDescription.PerformLayout();
             this.ResumeLayout(false);
@@ -108,5 +133,7 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnUpgrade;
         private System.Windows.Forms.Label lblmultiplier;
+        private System.Windows.Forms.Label lblSpeed;
+        private System.Windows.Forms.Label lblCost;
     }
 }

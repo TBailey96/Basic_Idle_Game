@@ -48,6 +48,8 @@ namespace BasicIdler
             grpDescription.Text = gen.name;
             lblAmount.Text = "Amount: " + gen.amount.ToString("N0");
             lblmultiplier.Text = "Multiplier: " + gen.multiplyer.ToString("N0");
+            lblCost.Text = "Cost: " + gen.cost.ToString("N0");
+            lblSpeed.Text = "Speed: " + gen.speed.ToString("N0");
         }
     }
 }
