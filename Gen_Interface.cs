@@ -46,8 +46,8 @@ namespace BasicIdler
         public void updateGUI()
         {
             grpDescription.Text = gen.name;
-            lblAmount.Text = "Amount: " + gen.amount.ToString();
-            lblmultiplier.Text = "Multiplier: " + gen.multiplyer.ToString();
+            lblAmount.Text = "Amount: " + gen.amount.ToString("N0");
+            lblmultiplier.Text = "Multiplier: " + gen.multiplyer.ToString("N0");
         }
     }
 }
