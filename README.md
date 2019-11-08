@@ -1,8 +1,8 @@
 # IDLE_Game
 basis for an idle game, taken from the game, "Antimater Diensions" but not as polished and in c#.<br>
-Javascript webgame link,<br>
-https://ivark.github.io/<br>
-github page [@ivark](https://github.com/IvarK)<br>
+[Javascript webgame](https://ivark.github.io/)<br>
+[Google Play](https://play.google.com/store/apps/details?id=kajfosz.antimatterdimensions)<br>
+[github page](https://github.com/IvarK) @ivark<br>
 
 <br>
 # Concept
